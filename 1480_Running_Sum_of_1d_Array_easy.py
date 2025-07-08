@@ -9,5 +9,4 @@ def runningSum(nums):
     return nums
 
 
-if __name__ == "__main__":
-    print(runningSum([1, 2, 3, 4]))  # Output: [1, 3, 6, 10]
+print(runningSum([1, 2, 3, 4]))  # Output: [1, 3, 6, 10]
